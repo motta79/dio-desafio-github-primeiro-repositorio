@@ -121,10 +121,10 @@ git stash list
 it stash apply stash@{2}.
   
 ## Referências:
-  WIKIPÉDIA. Disponível em: https://pt.wikipedia.org/wiki/Git. Acesso em: 14 mar. 2023.
+  **WIKIPÉDIA**. Disponível em: https://pt.wikipedia.org/wiki/Git. Acesso em: 14 mar. 2023.
 
-  WIKIPÉDIA. Disponível em: https://pt.wikipedia.org/wiki/GitHub. Acesso em: 14 mar. 2023.
+  **WIKIPÉDIA**. Disponível em: https://pt.wikipedia.org/wiki/GitHub. Acesso em: 14 mar. 2023.
 
-  DRIVEN. Disponível em: https://www.driven.com.br/blog/qual-a-diferenca-entre-git-e-github/. Acesso em: 14 mar. 2023.
+  **DRIVEN**. Disponível em: https://www.driven.com.br/blog/qual-a-diferenca-entre-git-e-github/. Acesso em: 14 mar. 2023.
   
-  GUEEKHUNTER. Disponível em: https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#Git_init. Acesso em: 14 mar. 2023.
+  **GUEEKHUNTER**. Disponível em: https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#Git_init. Acesso em: 14 mar. 2023.
