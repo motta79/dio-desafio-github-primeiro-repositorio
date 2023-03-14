@@ -17,7 +17,7 @@ Em suma, o Git é um software de controle de versão, já o GitHub é como se fo
 
 
 ## Principais comandos do Git
-<Git> <init>
+Git init
   
   Com sua pasta de trabalho devidamente iniciada, é hora de começar a preenchê-la.
 
