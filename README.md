@@ -7,3 +7,5 @@ Repositório criado para o Desafio de Projeto
 ## O que é Git e Github?
 Git
 Git ₍ₒᵤ em inglês britânico₎ é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo. (Wikipédia)
+## Referências:
+WIKIPÉDIA. Disponível em: https://pt.wikipedia.org/wiki/Git. Acesso em: 14 mar 2023.
