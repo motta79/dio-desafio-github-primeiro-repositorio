@@ -22,7 +22,8 @@ WIKIPÉDIA. Disponível em: https://pt.wikipedia.org/wiki/GitHub. Acesso em: 14 
 DRIVEN. Disponível em: https://www.driven.com.br/blog/qual-a-diferenca-entre-git-e-github/. Acesso em 14 mar. 2023.
 
 ## Principais comandos do Git
-Git init
+** Git init **
+  
   Com sua pasta de trabalho devidamente iniciada, é hora de começar a preenchê-la.
 
 Git clone
