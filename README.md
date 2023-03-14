@@ -11,7 +11,12 @@ Git ₍ₒᵤ em inglês britânico₎ é um sistema de controle de versões dis
 GitHub
 GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo. (Wikipédia)
 
-## Referências:
-WIKIPÉDIA. Disponível em: https://pt.wikipedia.org/wiki/Git. Acesso em: 14 mar 2023.
+## Qual a diferença entre Git e GitHub?
+Em suma, o Git é um software de controle de versão, já o GitHub é como se fosse uma rede social de pessoas desenvolvedoras, ou seja, uma plataforma na qual podem compartilhar projetos. (Driven)
 
-WIKIPÉDIA. Disponível em: https://pt.wikipedia.org/wiki/GitHub. Acesso em: 14 mar 2023.
+## Referências:
+WIKIPÉDIA. Disponível em: https://pt.wikipedia.org/wiki/Git. Acesso em: 14 mar. 2023.
+
+WIKIPÉDIA. Disponível em: https://pt.wikipedia.org/wiki/GitHub. Acesso em: 14 mar. 2023.
+
+DRIVEN. Disponível em: https://www.driven.com.br/blog/qual-a-diferenca-entre-git-e-github/. Acesso em 14 mar. 2023.
