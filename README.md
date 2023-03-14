@@ -13,4 +13,4 @@ GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle 
 
 ## Referências:
 WIKIPÉDIA. Disponível em: https://pt.wikipedia.org/wiki/Git. Acesso em: 14 mar 2023.
-WIKIPÉDIA. Disponível em: https://pt.wikipedia.org/wiki/GitHub#:~:text=GitHub%20%C3%A9%20uma%20plataforma%20de,de%20qualquer%20lugar%20do%20mundo. Acesso em: 14 mar 2023.
+WIKIPÉDIA. Disponível em: https://pt.wikipedia.org/wiki/GitHub. Acesso em: 14 mar 2023.
