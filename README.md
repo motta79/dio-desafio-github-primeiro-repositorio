@@ -23,7 +23,6 @@ DRIVEN. Disponível em: https://www.driven.com.br/blog/qual-a-diferenca-entre-gi
 
 ## Principais comandos do Git
 Git init
-
   Com sua pasta de trabalho devidamente iniciada, é hora de começar a preenchê-la.
 
 Git clone
