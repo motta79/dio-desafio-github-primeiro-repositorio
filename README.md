@@ -71,14 +71,56 @@ No entanto, se seu branch for criado recentemente, você também precisará faze
 git push -u origin <nome-do-branch>
 
 **Git pull**
+  
+  O git pull é usado para obter atualizações do repositório remoto. 
+
+  Trata-se de um comando que depende do referencial de onde ele foi feito, ou seja, um git pull feito da sua máquina vai puxar informações do repositório original para ela. Mas um git pull feito a partir do repositório original vai puxar as informações da sua máquina. Percebe?
+
+  Este comando é uma combinação de git fetch (baixa as alterações do repositório remoto, mas não as mescla com o seu) e git merge (que mescla tudo junto).
+
+  Isso significa que, quando usamos o git pull, ele recebe as atualizações do repositório remoto (git fetch) e aplica imediatamente as alterações mais recentes no seu local (git merge).
+
+git pull <remote>
 
 **Git revert**
+  
+  Existem várias maneiras de desfazer nossas alterações local ou remotamente (dependendo da necessidade), mas devemos usar esses comandos com cuidado para evitar problemas.
+
+  Uma maneira segura de desfazer os commits é usando git revert.
+
+git revert 'número do hash'
+
+    O número do hash pode ser conseguido pelo comando:
+
+git log -- oneline
 
 **Git merge**
+  
+  Quando você conclui o desenvolvimento em sua branch e tudo funciona bem, sem conflitos, a etapa final é mesclar as branches, isso é feito com o comando git merge.
+
+  Como falamos no tópico sobre git pull, esse comando vai mesclar, no seu repositório local, todas as alterações feitas.
+
+git merge <nome-da-branch>
 
 **Git stash**
   
-  ## Referências:
+  Sabe quando você está trabalhando em uma parte do projeto que não está fluindo como deveria e, então, decide mudar de branch por um tempo para trabalhar em outra coisa?
+
+  Bom, quando isso acontece não é preciso necessariamente fazer o commit. Com o comando git stash, existe a possibilidade de apenas arquivar as alterações que você fez na cópia de trabalho durante um determinado período para que seja possível retornar a ela mais tarde.
+
+  Para salvar as alterações sem commit, basta executar:
+  
+  git stash
+
+  Já para ver todas as stashes que você guardou, use:
+
+git stash list
+  
+  Por último, você também pode aplicar stashes antigos, especificando:
+
+it stash apply stash@{2}.
+  
+## Referências:
 WIKIPÉDIA. Disponível em: https://pt.wikipedia.org/wiki/Git. Acesso em: 14 mar. 2023.
 
 WIKIPÉDIA. Disponível em: https://pt.wikipedia.org/wiki/GitHub. Acesso em: 14 mar. 2023.
