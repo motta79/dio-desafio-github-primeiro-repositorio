@@ -14,15 +14,10 @@ GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle 
 ## Qual a diferença entre Git e GitHub?
 Em suma, o Git é um software de controle de versão, já o GitHub é como se fosse uma rede social de pessoas desenvolvedoras, ou seja, uma plataforma na qual podem compartilhar projetos. (Driven)
 
-## Referências:
-WIKIPÉDIA. Disponível em: https://pt.wikipedia.org/wiki/Git. Acesso em: 14 mar. 2023.
 
-WIKIPÉDIA. Disponível em: https://pt.wikipedia.org/wiki/GitHub. Acesso em: 14 mar. 2023.
-
-DRIVEN. Disponível em: https://www.driven.com.br/blog/qual-a-diferenca-entre-git-e-github/. Acesso em 14 mar. 2023.
 
 ## Principais comandos do Git
-** Git init **
+* Git init *
   
   Com sua pasta de trabalho devidamente iniciada, é hora de começar a preenchê-la.
 
@@ -82,3 +77,10 @@ Git revert
 Git merge
 
 Git stash
+  
+  ## Referências:
+WIKIPÉDIA. Disponível em: https://pt.wikipedia.org/wiki/Git. Acesso em: 14 mar. 2023.
+
+WIKIPÉDIA. Disponível em: https://pt.wikipedia.org/wiki/GitHub. Acesso em: 14 mar. 2023.
+
+DRIVEN. Disponível em: https://www.driven.com.br/blog/qual-a-diferenca-entre-git-e-github/. Acesso em 14 mar. 2023.
